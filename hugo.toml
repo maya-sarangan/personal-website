@@ -1,0 +1,10 @@
+title = 'Maya Sarangan'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme = 'ananke'
+DefaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+weight = 1
+contentDir = "content/en"
