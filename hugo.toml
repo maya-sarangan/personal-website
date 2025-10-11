@@ -8,3 +8,7 @@ DefaultContentLanguage = "en"
 [languages.en]
 weight = 1
 contentDir = "content/en"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
