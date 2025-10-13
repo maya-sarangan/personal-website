@@ -19,7 +19,7 @@ In this method you simply have to stack your two numbers and multiply their digi
 
 One example of this is `367 x 485`. The following picture shows it in action:
 
-![Stacking_Method](/images/Stacking_Method_One.png)
+![Stacking_Method](/personal-website/images/Stacking_Method_One.png)
 
 If you look closely, you will observe that you keep the first number unchanged. But, you split the second number into smaller pieces based on their place value. This method is short and sweet. And, this is the most widely taught and used method.One minor inconvenience is the use of carry overs that , if missed, will cause errors.
 
@@ -28,7 +28,7 @@ It is a little bit different than the previous one. Here you have to pay close a
 
 The following picture shows it in action:
 
-![Stacking_Method_Two](/images/Stacking_Method_Two.png)
+![Stacking_Method_Two](/personal-website/images/Stacking_Method_Two.png)
 
 If you look closely, this is slightly different from the previous stacking method. Here, We split both the numbers into smaller pieces based on their place values (instead of only one number as in the previous stacking method). As you can see, there is no carry over making this a very good method.But, you have to keep track of the place values.
 
@@ -37,7 +37,7 @@ This method is based on the concept of area of a rectangle.The area of the recta
 
 The following picture shows it in action:
 
-![Box_Method](/images/Box_Method.png)
+![Box_Method](/personal-website/images/Box_Method.png)
 
 The advantage of this method is that, learners who are more picture oriented will be able to understand this a lot better. But,if I have a number in the millions it might be challenging to draw that many rectangles.
 
@@ -48,7 +48,7 @@ Now, multiply the aligning digits. Then, you must add every diagonal product.Onc
 
 The following picture shows it in action:
 
-![Japanese_Method_Simplified](/images/Japanese_Method_Simplified.png)
+![Japanese_Method_Simplified](/personal-website/images/Japanese_Method_Simplified.png)
 
 This is a cool and fun method. But, it is not widely used.
 
