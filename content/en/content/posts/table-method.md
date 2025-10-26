@@ -5,7 +5,7 @@ title = 'Ratios, Tables, and One Very Proud 90’s Kid'
 tags = ["math", "proportion", "ratio"]
 +++
 
-"This method never failed me in 25 years!!!", declared my dad. He is a 90's kid. You know, the kids who had a secret crush on their teachers(yikes), who played with tomagatchi(seriously?), who thought the world was simple and beautiful(spoiler alert: it wasn't!) back then, and their old - school method of studying is better(not always).But, I have to agree there are instances where some of their methods are easy to understand and surprisingly useful. 
+"This method never failed me in 25 years!!!", declared my dad. He is a 90's kid. You know, the kids who had a secret crush on their teachers(yikes), who played with Tamagotchi(seriously?), who thought the world was simple and beautiful(spoiler alert: it wasn't!) back then, and their old - school method of studying is better(not always).But, I have to agree there are instances where some of their methods are easy to understand and surprisingly useful. 
 
 One such method is the table method, which can solve ratio problems. According to my dad, his teacher taught this method for only one week and he stills remembers it twenty-five years later. I found this method useful and documenting it here. 
 
