@@ -26,15 +26,25 @@ The following demonstrations will show you: With the GCF solved, `323/361` simpl
 **323/361**
 
 361 - 323 = 38 (Subtract 361 from 323, since 361 is the larger number it goes first)
+
 323 - 38 = 285 (From the previous step, subtract the two smallest numbers: 323 and 38)
+
 285 - 38 = 247 (From the previous step, subtract the two smallest numbers: 286 and 38)
+
 247 - 38 = 209 (Continue subtracting the two smallest numbers from previous steps)
+
 209 - 38 = 171 
+
 171 - 38 = 133 
+
 133 - 38 = 95 
+
 95 - 38 = 57 
+
 57 - 38 = 19 
+
 38 - 19 = 19 (Here, since 38 is bigger you have to subtract with 38 first)
+
 19 - 19 = 0 (Since 0 is the result that means 19 is the GCF)
 
 So, 19 is the GCF of the numbers 323 and 361
@@ -44,12 +54,19 @@ So 323/361 = (17 x 19) / (19 x 19) = 17/19
 **238/289**
 
 289 - 238 = 51 (Continue subtracting the two smallest numbers just like the previous problem)
+
 238 - 51 = 187
+
 187- 51 = 136
+
 136 - 51 = 85
+
 85 - 51 = 34
+
 51 - 34 = 17  
+
 34 - 17 = 17
+
 17 - 17 = 0 
 
 So, 17 is the GCF of the numbers 238 and 289
@@ -57,6 +74,6 @@ So, 17 is the GCF of the numbers 238 and 289
 So 238/289 = (14 x 17) / (17 x 17) = 14/17
 
 
-If you do not end up at zero, then it means the fractions are already in simplified form. You are probably wondering why this method works and what its name is. It works because in the original method you would have to repeatedly divide the numbers but here you have to repeatedly subtract the numbers. It gives you the same result because just like repeated addition is the same as multiplication, repeated subtraction is the same as division.And, it is called *Drumroll please* **The Euclidean Algorithm** - _more than 2000 years old._
+If you do not end up at zero, then it means the fractions are already in simplified form. You are probably wondering why this method works and what its name is. It works because in the original method you would have to repeatedly divide the numbers but here you have to repeatedly subtract the numbers. It gives you the same result because just like repeated addition is the same as multiplication, repeated subtraction is the same as division.And, it is called (*Drumroll please*) **The Euclidean Algorithm** - _more than 2000 years old._
 
 I tried handing out this math trick on Halloween — turns out, kids prefer chocolate over the Euclidean Algorithm... :-)
