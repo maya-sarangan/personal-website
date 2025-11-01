@@ -10,7 +10,7 @@ First, let’s talk about what this trick is used for, it is used for simplifyin
 
 **Problem: Simplify the fraction 20/32**
 
-To solve the problem you must find the **GCF(Greatest Common Factor)** of the two numbers.First, you must write down a list of all of the numbers factors.Then, you must take the greatest two numbers that are common in both of the lists. For the numbers 20 and 32, the GCF would be 4. Now, divide both numbers by their GCF and you will have the simplified fraction which is `5/8`. If the fraction is not simplified to the fullest then you can repeat this method until you reach the answer. This is the traditional method that most people use when simplifying.The diagram will show you:
+To solve the problem you must find the **GCF(Greatest Common Factor)** of the two numbers.First, you must write down a list of all of the numbers factors.Then, you must take the greatest two numbers that are common in both of the lists. For the numbers 20 and 32, the GCF would be 4. Now, divide both numbers by their GCF and you will have the simplified fraction which is `5/8`. If the fraction is not simplified to the fullest then you can repeat this method until you reach the answer. This is the traditional method that most people use when simplifying.
 
 But this method’s fatal flaw comes in when you try to use it to simplify larger fractions. Let me give you an example.
 
