@@ -2,6 +2,7 @@
 date = '2025-10-31T15:49:32-07:00'
 draft = false
 title = 'Euclidean Simplification - Math Trick or Magical Treat'
+tags = ["math", "ratio"]
 +++
 Trick - or - treating is one of the best times of the year.You get a wide assortment of candies and chocolates. But, what about the tricks? No one ever gives out tricks! So, for halloween I will be giving you a very special trick, a math trick! I promise, the way it gets the solution… You will have a magical treat….
 
