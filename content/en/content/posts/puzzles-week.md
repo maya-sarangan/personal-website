@@ -16,30 +16,30 @@ Let’s start!
 
 Here is an interesting puzzle to solve for X.
 
-![Puzzle_1](/images/Problem_1.png)
+![Puzzle_1](/personal-website/images/Problem_1.png)
 
 **Puzzle 2**
 
 Let us make it more challenging, solve for A,B, and C
 
-![Puzzle_2](/images/Problem_2.png)
+![Puzzle_2](/personal-website/images/Problem_2.png)
 
 **Puzzle 3**
 
 Now, let us try a palindrome problem:
 
-![Puzzle_3](/images/Problem_3.png)
+![Puzzle_3](/personal-website/images/Problem_3.png)
 
 **Puzzle 4**
 
 Why don't we try two equations at once?
 
-![Puzzle_4](/images/Problem_4.png)
+![Puzzle_4](/personal-website/images/Problem_4.png)
 
 **Puzzle 5**
 
 Here is a true logic puzzle in Shakuntala Devi's style.
 
-![Puzzle_5](/images/Problem_5.png)
+![Puzzle_5](/personal-website/images/Problem_5.png)
 
 Finished them all? You might just be the next Shakuntala Devi... :-)
