@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-31T15:49:32-07:00</lastmod>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/content/</loc>
-    <lastmod>2025-10-31T15:49:32-07:00</lastmod>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/math/</loc>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/puzzles/</loc>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/posts/puzzles-week/</loc>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/content/posts/math-trick-or-magical-treat/</loc>
     <lastmod>2025-10-31T15:49:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
-    <lastmod>2025-10-31T15:49:32-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ratio/</loc>
-    <lastmod>2025-10-31T15:49:32-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-31T15:49:32-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/proportion/</loc>
