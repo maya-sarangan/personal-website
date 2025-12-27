@@ -1,0 +1,7 @@
+.inverted-answer {
+  display: inline-block;
+  transform: rotate(180deg);
+  font-style: italic;
+  color: #666;
+  letter-spacing: 0.1em;
+}

@@ -6,8 +6,15 @@
     <description>Recent content in Contents on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 20:58:20 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 20:57:53 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cracking the Code: How Secrets Traveled During World War II</title>
+      <link>http://localhost:1313/content/posts/cryptography/</link>
+      <pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
+      <guid>http://localhost:1313/content/posts/cryptography/</guid>
+      <description>&lt;p&gt;The cryptanalysts stayed up all night long, waiting for a message to be given. They had grown paranoid since they hadn’t gotten any new messages for the past two weeks. Until one of them picked up a message through her headphones, she positioned her fingers on the enigma machine ready to translate the message. She translated it and the resulting message was in German. It read “Bitte…Bitte…”, it meant “Please…Please” in English. She was alarmed and she listened for another part of the message, but it had gone silent. This is an example of an alarming situation that the cryptanalysts had to go through during World War two. One very outstanding cryptanalyst was Joan Clarke. She worked at Bletchley Park, a secret codebreaking center in England, in Hut 8. The reason why she was outstanding was because, despite being a female in a male - dominated field, she gained their trust and respect. Because of this, today I am going to show you many different ways of communication during the war, and how to use them. Let’s start!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A4 Paper Has a Superpower… and It’s Pure Math</title>
       <link>http://localhost:1313/content/posts/math-and-paper-size/</link>
