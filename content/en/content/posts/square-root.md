@@ -2,6 +2,7 @@
 date = '2026-04-07T20:36:40-07:00'
 draft = false
 title = "A radical's take on radicals: Square Root without using a calculator"
+tags = ["math", "radical", "squareroot", "babylonian"]
 +++
 
 You walk into class and realize today is the day of your square roots test. You sit down and grab your calculator. You put in the question and the calculator gives you the answer. Seems simple, right? But for over two thousand years, how did people find square roots? It wasn't as simple as just asking AI. Luckily, an abundance of different ways were discovered. Some of them are:

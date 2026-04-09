@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Babylonian on Maya Sarangan</title>
+    <link>http://localhost:1313/tags/babylonian/</link>
+    <description>Recent content in Babylonian on Maya Sarangan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Apr 2026 20:36:40 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/babylonian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A radical&#39;s take on radicals: Square Root without using a calculator</title>
+      <link>http://localhost:1313/content/posts/square-root/</link>
+      <pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
+      <guid>http://localhost:1313/content/posts/square-root/</guid>
+      <description>&lt;p&gt;You walk into class and realize today is the day of your square roots test. You sit down and grab your calculator. You put in the question and the calculator gives you the answer. Seems simple, right? But for over two thousand years, how did people find square roots? It wasn&amp;rsquo;t as simple as just asking AI. Luckily, an abundance of different ways were discovered. Some of them are:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;1. Babylonian/Heron&#39;s method&#xA;2. Approximation method&#xA;3. Bakhshali&#39;s method&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;and many more.Today, I want to share what I learned about the Babylonian method.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
