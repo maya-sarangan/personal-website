@@ -6,8 +6,15 @@
     <description>Recent content in Math on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 20:36:40 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 12:29:46 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Lines Just Touch: The Secret of Tangents</title>
+      <link>http://localhost:1313/content/posts/tangent-theorem-problem/</link>
+      <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
+      <guid>http://localhost:1313/content/posts/tangent-theorem-problem/</guid>
+      <description>&lt;p&gt;I was watching the movie Aladdin when my dad walked in and said &amp;ldquo;Let&amp;rsquo;s do something tangential to watching the movie!&amp;rdquo;. I asked, &amp;ldquo;what is a tangent?&amp;rdquo;. After a short session on tangents I ended up with this problem.&lt;/p&gt;&#xA;&lt;p&gt;Here is the problem:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/personal-website/images/tangent_1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AB = 9, BC = 12, and triangle ABC is a right-angled triangle. The two circles have the same area. Find the combined area of the 2 circles.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A radical&#39;s take on radicals: Square Root without using a calculator</title>
       <link>http://localhost:1313/content/posts/square-root/</link>

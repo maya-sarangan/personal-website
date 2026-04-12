@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-07T20:36:40-07:00</lastmod>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/algebra/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/geometry/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/math/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/puzzles/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tangent/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tangent-tangent-theorem/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/posts/tangent-theorem-problem/</loc>
+    <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/content/posts/square-root/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
@@ -11,19 +38,10 @@
     <loc>http://localhost:1313/tags/babylonian/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/content/</loc>
-    <lastmod>2026-04-07T20:36:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
-    <lastmod>2026-04-07T20:36:40-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/radical/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/squareroot/</loc>
-    <lastmod>2026-04-07T20:36:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/content/posts/cryptography/</loc>
@@ -43,9 +61,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/ratio/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/puzzles/</loc>
-    <lastmod>2025-11-09T17:46:15-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/content/posts/puzzles-week/</loc>
     <lastmod>2025-11-09T17:46:15-08:00</lastmod>

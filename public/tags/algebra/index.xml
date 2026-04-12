@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Puzzles on Maya Sarangan</title>
-    <link>http://localhost:1313/tags/puzzles/</link>
-    <description>Recent content in Puzzles on Maya Sarangan</description>
+    <title>Algebra on Maya Sarangan</title>
+    <link>http://localhost:1313/tags/algebra/</link>
+    <description>Recent content in Algebra on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Apr 2026 12:29:46 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/puzzles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When Lines Just Touch: The Secret of Tangents</title>
       <link>http://localhost:1313/content/posts/tangent-theorem-problem/</link>
       <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
       <guid>http://localhost:1313/content/posts/tangent-theorem-problem/</guid>
       <description>&lt;p&gt;I was watching the movie Aladdin when my dad walked in and said &amp;ldquo;Let&amp;rsquo;s do something tangential to watching the movie!&amp;rdquo;. I asked, &amp;ldquo;what is a tangent?&amp;rdquo;. After a short session on tangents I ended up with this problem.&lt;/p&gt;&#xA;&lt;p&gt;Here is the problem:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/personal-website/images/tangent_1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AB = 9, BC = 12, and triangle ABC is a right-angled triangle. The two circles have the same area. Find the combined area of the 2 circles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shakuntala Devi - A week of Puzzles</title>
-      <link>http://localhost:1313/content/posts/puzzles-week/</link>
-      <pubDate>Sun, 09 Nov 2025 17:46:15 -0800</pubDate>
-      <guid>http://localhost:1313/content/posts/puzzles-week/</guid>
-      <description>&lt;p&gt;“Math — it’s a puzzle. I love figuring out puzzles.” — said Maya Lin.&lt;/p&gt;&#xA;&lt;p&gt;There have been many brilliant women who made history in mathematics, and &lt;strong&gt;Shakuntala Devi&lt;/strong&gt; was one of them. She was a mathematician and writer who amazed the world with her mental calculations. She once solved the &lt;strong&gt;23rd root of a 201-digit number in just 50 seconds&lt;/strong&gt;, and even multiplied &lt;strong&gt;two 13-digit numbers&lt;/strong&gt; faster than a computer!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
