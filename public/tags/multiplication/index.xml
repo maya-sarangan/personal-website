@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiplication on Maya Sarangan</title>
-    <link>http://localhost:1313/tags/multiplication/</link>
+    <link>https://example.org/tags/multiplication/</link>
     <description>Recent content in Multiplication on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Oct 2025 15:34:02 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/multiplication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/multiplication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Fun Ways to Multiply (Without a Calculator!)</title>
-      <link>http://localhost:1313/content/posts/multiplication-strategies/</link>
+      <link>https://example.org/content/posts/multiplication-strategies/</link>
       <pubDate>Sat, 11 Oct 2025 15:34:02 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/multiplication-strategies/</guid>
+      <guid>https://example.org/content/posts/multiplication-strategies/</guid>
       <description>&lt;p&gt;Today, I had an interesting conversation with my friends. It was about different types of multiplication. Surprisingly, they knew only one method of multiplication and in one case did not understand the underlying meaning of multiplication. So, I explained to them the five methods that I knew.I thought it would be great to share this knowledge with others.&lt;/p&gt;&#xA;&lt;h3 id=&#34;method-1repetitive-addition&#34;&gt;Method 1:Repetitive Addition&lt;/h3&gt;&#xA;&lt;p&gt;The first method is called &amp;ldquo;repetitive addition&amp;rdquo;. In fact,this explains the underlying meaning of multiplication. In this method we simply write out our multiplication equation in terms of addition.&lt;/p&gt;</description>
     </item>
   </channel>

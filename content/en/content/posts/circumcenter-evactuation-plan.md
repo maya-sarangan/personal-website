@@ -8,7 +8,7 @@ Yesterday, I invited my friend over to my house for a play date. My friend is sm
 
 I asked her this riddle: There are three cities in a peninsula and they are dangerously close to the water. But, they built a fence blocking the water. But, a massive hurricane has torn down the fence and the water is coming towards the three cities at a constant rate. You need to build an evacuation center for the citizens, but you don't know where to keep it. You need to make sure it is the same distance from all cities so that everyone will survive. Where will you build the evacuation center and how will you figure out where to build it? Here is a visual representation of this riddle:
 
-![evacuation_question](/personal-website/images/evacuation_question.png)
+![evacuation_question](/personal-website/images/evacuation_question.jpeg)
 
 In order to solve this puzzle, you must know these 4 crucial concepts:
     1. Median
@@ -48,15 +48,15 @@ We can use the perpendicular bisector! If we draw three lines connecting all of 
 
 Now, let us put this into action. This is the image showing the cities on top of the circle's circumference (I have marked them in paint as the thread is not clearly visible in the picture):
 
-![Cities On Circle](/personal-website/images/cities_on_circle.png)
+![Cities On Circle](/personal-website/images/cities_on_circle.jpeg)
 
 Here, my friend and I connected the cities using string to make a triangle:
 
-![Cities On Triangle](/personal-website/images/cities_on_triangle.png)
+![Cities On Triangle](/personal-website/images/cities_on_triangle.jpeg)
 
 Finally, we marked the perpendicular bisectors (and the right angles) and used the ball to mark the circumcenter. After that, we double checked the distance from each city to the circumcenter using a ruler, and the distances were all roughly 13.3. Thus, we found the location of the evacuation center. 
 
-![Evacuation Answer](/personal-website/images/evacuation_answer.png)
+![Evacuation Answer](/personal-website/images/evacuation_answer.jpeg)
 
 Congratulations! Because of you, all citizens are safe and happy. 
 

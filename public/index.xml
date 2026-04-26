@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maya Sarangan</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Apr 2026 13:32:17 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Geometry of Survival: The Triangle Rescue Mission</title>
-      <link>http://localhost:1313/content/posts/circumcenter-evactuation-plan/</link>
+      <link>https://example.org/content/posts/circumcenter-evactuation-plan/</link>
       <pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/circumcenter-evactuation-plan/</guid>
+      <guid>https://example.org/content/posts/circumcenter-evactuation-plan/</guid>
       <description>&lt;p&gt;Yesterday, I invited my friend over to my house for a play date. My friend is smart and always has good ideas on what to do. We played for hours and eventually got bored. So, she started looking through my math worksheets on geometry. Then, she asked me &amp;ldquo;What is the point of knowing all these concepts? Where are you going to use this in the real world?&amp;rdquo;. Testing time&amp;hellip;..!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>When Lines Just Touch: The Secret of Tangents</title>
-      <link>http://localhost:1313/content/posts/tangent-theorem-problem/</link>
+      <link>https://example.org/content/posts/tangent-theorem-problem/</link>
       <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/tangent-theorem-problem/</guid>
-      <description>&lt;p&gt;I was watching the movie Aladdin when my dad walked in and said &amp;ldquo;Let&amp;rsquo;s do something tangential to watching the movie!&amp;rdquo;. I asked, &amp;ldquo;what is a tangent?&amp;rdquo;. After a short session on tangents I ended up with this problem.&lt;/p&gt;&#xA;&lt;p&gt;Here is the problem:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/personal-website/images/tangent_1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AB = 9, BC = 12, and triangle ABC is a right-angled triangle. The two circles have the same area. Find the combined area of the 2 circles.&lt;/p&gt;</description>
+      <guid>https://example.org/content/posts/tangent-theorem-problem/</guid>
+      <description>&lt;p&gt;I was watching the movie Aladdin when my dad walked in and said &amp;ldquo;Let&amp;rsquo;s do something tangential to watching the movie!&amp;rdquo;. I asked, &amp;ldquo;what is a tangent?&amp;rdquo;. After a short session on tangents I ended up with this problem.&lt;/p&gt;&#xA;&lt;p&gt;Here is the problem:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/personal-website/images/tangent_1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AB = 9, BC = 12, and triangle ABC is a right-angled triangle. The two circles have the same area. Find the combined area of the 2 circles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A radical&#39;s take on radicals: Square Root without using a calculator</title>
-      <link>http://localhost:1313/content/posts/square-root/</link>
+      <link>https://example.org/content/posts/square-root/</link>
       <pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/square-root/</guid>
+      <guid>https://example.org/content/posts/square-root/</guid>
       <description>&lt;p&gt;You walk into class and realize today is the day of your square roots test. You sit down and grab your calculator. You put in the question and the calculator gives you the answer. Seems simple, right? But for over two thousand years, how did people find square roots? It wasn&amp;rsquo;t as simple as just asking AI. Luckily, an abundance of different ways were discovered. Some of them are:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;1. Babylonian/Heron&#39;s method&#xA;2. Approximation method&#xA;3. Bakhshali&#39;s method&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;and many more.Today, I want to share what I learned about the Babylonian method.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cracking the Code: How Secrets Traveled During World War II</title>
-      <link>http://localhost:1313/content/posts/cryptography/</link>
+      <link>https://example.org/content/posts/cryptography/</link>
       <pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
-      <guid>http://localhost:1313/content/posts/cryptography/</guid>
+      <guid>https://example.org/content/posts/cryptography/</guid>
       <description>&lt;p&gt;The cryptanalysts stayed up all night long, waiting for a message to be given. They had grown paranoid since they hadn’t gotten any new messages for the past two weeks. Until one of them picked up a message through her headphones, she positioned her fingers on the enigma machine ready to translate the message. She translated it and the resulting message was in German. It read “Bitte…Bitte…”, it meant “Please…Please” in English. She was alarmed and she listened for another part of the message, but it had gone silent. This is an example of an alarming situation that the cryptanalysts had to go through during World War two. One very outstanding cryptanalyst was Joan Clarke. She worked at Bletchley Park, a secret codebreaking center in England, in Hut 8. The reason why she was outstanding was because, despite being a female in a male - dominated field, she gained their trust and respect. Because of this, today I am going to show you many different ways of communication during the war, and how to use them. Let’s start!&lt;/p&gt;</description>
     </item>
     <item>
       <title>A4 Paper Has a Superpower… and It’s Pure Math</title>
-      <link>http://localhost:1313/content/posts/math-and-paper-size/</link>
+      <link>https://example.org/content/posts/math-and-paper-size/</link>
       <pubDate>Sat, 15 Nov 2025 20:58:20 -0800</pubDate>
-      <guid>http://localhost:1313/content/posts/math-and-paper-size/</guid>
+      <guid>https://example.org/content/posts/math-and-paper-size/</guid>
       <description>&lt;p&gt;Math is everywhere, even in places you will not expect it to be in. It might even be in the sheet of paper that you use everyday&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Have you ever looked down at your desk and tried to find out the dimensions of your paper? Most people do not, but I can change your mind about that. Let us start with the size of A4 paper. The dimensions of A4 paper are 210 mm x 297 mm. But, why? Why is it that A4 paper has to be of those dimensions? Why not 225 mm x 325 mm. Or 765 mm x 150 mm. That is what I am going to explain, along with many other things today. Let&amp;rsquo;s start!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shakuntala Devi - A week of Puzzles</title>
-      <link>http://localhost:1313/content/posts/puzzles-week/</link>
+      <link>https://example.org/content/posts/puzzles-week/</link>
       <pubDate>Sun, 09 Nov 2025 17:46:15 -0800</pubDate>
-      <guid>http://localhost:1313/content/posts/puzzles-week/</guid>
+      <guid>https://example.org/content/posts/puzzles-week/</guid>
       <description>&lt;p&gt;“Math — it’s a puzzle. I love figuring out puzzles.” — said Maya Lin.&lt;/p&gt;&#xA;&lt;p&gt;There have been many brilliant women who made history in mathematics, and &lt;strong&gt;Shakuntala Devi&lt;/strong&gt; was one of them. She was a mathematician and writer who amazed the world with her mental calculations. She once solved the &lt;strong&gt;23rd root of a 201-digit number in just 50 seconds&lt;/strong&gt;, and even multiplied &lt;strong&gt;two 13-digit numbers&lt;/strong&gt; faster than a computer!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Euclidean Simplification - Math Trick or Magical Treat</title>
-      <link>http://localhost:1313/content/posts/math-trick-or-magical-treat/</link>
+      <link>https://example.org/content/posts/math-trick-or-magical-treat/</link>
       <pubDate>Fri, 31 Oct 2025 15:49:32 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/math-trick-or-magical-treat/</guid>
+      <guid>https://example.org/content/posts/math-trick-or-magical-treat/</guid>
       <description>&lt;p&gt;Trick - or - treating is one of the best times of the year.You get a wide assortment of candies and chocolates. But, what about the tricks? No one ever gives out tricks! So, for halloween I will be giving you a very special trick, a math trick! I promise, the way it gets the solution… You will have a magical treat….&lt;/p&gt;&#xA;&lt;p&gt;First, let’s talk about what this trick is used for, it is used for simplifying fractions! Simplifying fractions is when you take a fraction and decrease it until it is at its lowest form. Let me give you an example:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ratios, Tables, and One Very Proud 90’s Kid</title>
-      <link>http://localhost:1313/content/posts/table-method/</link>
+      <link>https://example.org/content/posts/table-method/</link>
       <pubDate>Sat, 25 Oct 2025 16:11:46 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/table-method/</guid>
+      <guid>https://example.org/content/posts/table-method/</guid>
       <description>&lt;p&gt;&amp;ldquo;This method never failed me in 25 years!!!&amp;rdquo;, declared my dad. He is a 90&amp;rsquo;s kid. You know, the kids who had a secret crush on their teachers(yikes), who played with Tamagotchi(seriously?), who thought the world was simple and beautiful(spoiler alert: it wasn&amp;rsquo;t!) back then, and their old - school method of studying is better(not always).But, I have to agree there are instances where some of their methods are easy to understand and surprisingly useful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Fun Ways to Multiply (Without a Calculator!)</title>
-      <link>http://localhost:1313/content/posts/multiplication-strategies/</link>
+      <link>https://example.org/content/posts/multiplication-strategies/</link>
       <pubDate>Sat, 11 Oct 2025 15:34:02 -0700</pubDate>
-      <guid>http://localhost:1313/content/posts/multiplication-strategies/</guid>
+      <guid>https://example.org/content/posts/multiplication-strategies/</guid>
       <description>&lt;p&gt;Today, I had an interesting conversation with my friends. It was about different types of multiplication. Surprisingly, they knew only one method of multiplication and in one case did not understand the underlying meaning of multiplication. So, I explained to them the five methods that I knew.I thought it would be great to share this knowledge with others.&lt;/p&gt;&#xA;&lt;h3 id=&#34;method-1repetitive-addition&#34;&gt;Method 1:Repetitive Addition&lt;/h3&gt;&#xA;&lt;p&gt;The first method is called &amp;ldquo;repetitive addition&amp;rdquo;. In fact,this explains the underlying meaning of multiplication. In this method we simply write out our multiplication equation in terms of addition.&lt;/p&gt;</description>
     </item>
   </channel>
