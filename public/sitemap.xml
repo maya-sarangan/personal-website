@@ -2,99 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/centroid/</loc>
+    <loc>http://localhost:1313/tags/centroid/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/circumcenter/</loc>
+    <loc>http://localhost:1313/tags/circumcenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/</loc>
+    <loc>http://localhost:1313/tags/geometry/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/geometry/</loc>
+    <loc>http://localhost:1313/tags/incenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/incenter/</loc>
+    <loc>http://localhost:1313/tags/math/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/math/</loc>
+    <loc>http://localhost:1313/tags/orthocenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/orthocenter/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/circumcenter-evactuation-plan/</loc>
+    <loc>http://localhost:1313/posts/circumcenter-evacuation-plan/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/algebra/</loc>
+    <loc>http://localhost:1313/tags/algebra/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/puzzles/</loc>
+    <loc>http://localhost:1313/tags/puzzles/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/tangent/</loc>
+    <loc>http://localhost:1313/tags/tangent/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/tangent-tangent-theorem/</loc>
+    <loc>http://localhost:1313/tags/tangent-tangent-theorem/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/tangent-theorem-problem/</loc>
+    <loc>http://localhost:1313/posts/tangent-theorem-problem/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/square-root/</loc>
+    <loc>http://localhost:1313/posts/square-root/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/babylonian/</loc>
+    <loc>http://localhost:1313/tags/babylonian/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/radical/</loc>
+    <loc>http://localhost:1313/tags/radical/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/squareroot/</loc>
+    <loc>http://localhost:1313/tags/squareroot/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/cryptography/</loc>
+    <loc>http://localhost:1313/posts/cryptography/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/cryptography/</loc>
+    <loc>http://localhost:1313/tags/cryptography/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/history/</loc>
+    <loc>http://localhost:1313/tags/history/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/math-and-paper-size/</loc>
+    <loc>http://localhost:1313/posts/math-and-paper-size/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/paper/</loc>
+    <loc>http://localhost:1313/tags/paper/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ratio/</loc>
+    <loc>http://localhost:1313/tags/ratio/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/puzzles-week/</loc>
+    <loc>http://localhost:1313/posts/puzzles-week/</loc>
     <lastmod>2025-11-09T17:46:15-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/math-trick-or-magical-treat/</loc>
+    <loc>http://localhost:1313/posts/math-trick-or-magical-treat/</loc>
     <lastmod>2025-10-31T15:49:32-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/proportion/</loc>
+    <loc>http://localhost:1313/tags/proportion/</loc>
     <lastmod>2025-10-25T16:11:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/table-method/</loc>
+    <loc>http://localhost:1313/posts/table-method/</loc>
     <lastmod>2025-10-25T16:11:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/content/posts/multiplication-strategies/</loc>
+    <loc>http://localhost:1313/posts/multiplication-strategies/</loc>
     <lastmod>2025-10-11T15:34:02-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/multiplication/</loc>
+    <loc>http://localhost:1313/tags/multiplication/</loc>
     <lastmod>2025-10-11T15:34:02-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
