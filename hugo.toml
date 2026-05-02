@@ -12,3 +12,6 @@ contentDir = "content/en"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

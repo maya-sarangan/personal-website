@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -11,12 +11,12 @@
     
     
     
-      <meta name="robots" content="noindex, nofollow">
+      <meta name="robots" content="index, follow">
     
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.efe4d852f731d5d1fbb87718387202a97aafd768cdcdaed0662bbe6982e91824.css" >
 
 
 
@@ -37,10 +37,10 @@
     
 
     
-      <link rel="canonical" href="http://localhost:1313/tags/puzzles/">
+      <link rel="canonical" href="https://example.org/tags/puzzles/">
     
 
-    <meta property="og:url" content="http://localhost:1313/tags/puzzles/">
+    <meta property="og:url" content="https://example.org/tags/puzzles/">
   <meta property="og:site_name" content="Maya Sarangan">
   <meta property="og:title" content="Puzzles">
   <meta property="og:locale" content="en">
@@ -52,8 +52,10 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Puzzles">
 
+      
+    
 	
-  </head><body class="ma0 avenir bg-near-white development">
+  </head><body class="ma0 avenir bg-near-white production">
 
     
 
@@ -64,8 +66,55 @@
     <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
       Home
     </a>
+    <div class="flex-l items-center">
+      
+
+      
+      <div class="ananke-socials"></div>
+
+      <div class="relative dib ml3">
+        <input id="search-input" type="text" placeholder="Search posts..."
+          class="input-reset ba b--white-40 bg-transparent white-90 pa2 f6 br2 w5" aria-label="Search posts">
+        <ul id="search-results" class="list pl0 mt2 absolute right-0 bg-white shadow-1 br2 w6 z-999" style="display:none;"></ul>
+      </div>
+    </div>
   </div>
 </nav>
+<script>
+(function() {
+  let posts = [];
+  fetch('/index.json')
+    .then(r => r.json())
+    .then(data => { posts = data; });
+
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+
+  input.addEventListener('input', function() {
+    const q = this.value.toLowerCase().trim();
+    results.innerHTML = '';
+    if (!q) { results.style.display = 'none'; return; }
+    const matches = posts.filter(p =>
+      p.title.toLowerCase().includes(q) ||
+      (p.tags && p.tags.some(t => t.toLowerCase().includes(q)))
+    );
+    if (matches.length === 0) { results.style.display = 'none'; return; }
+    results.style.display = 'block';
+    matches.forEach(p => {
+      const li = document.createElement('li');
+      li.className = 'pa2 bb b--light-gray';
+      const tags = p.tags ? p.tags.map(t => '<span class="f7 gray ml1">#' + t + '</span>').join('') : '';
+      li.innerHTML = '<a href="' + p.url + '" class="link dim dark-gray f6 fw6">' + p.title + '</a><br>' + tags;
+      results.appendChild(li);
+    });
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('#search-input') && !e.target.closest('#search-results'))
+      results.style.display = 'none';
+  });
+})();
+</script>
 
       <div class="tc-l pv3 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
@@ -133,7 +182,7 @@
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://example.org/" >
     &copy;  Maya Sarangan 2026 
   </a>
     <div><div class="ananke-socials"></div>

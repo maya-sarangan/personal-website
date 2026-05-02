@@ -1,0 +1,2 @@
+{{- $posts := collections.Where .Site.RegularPages "Section" "posts" -}}
+[{{ range $i, $p := $posts }}{{ if $i }},{{ end }}{"title":{{ $p.Title | encoding.Jsonify }},"url":"{{ $p.RelPermalink }}","tags":{{ $p.Params.tags | encoding.Jsonify }}}{{ end }}]
