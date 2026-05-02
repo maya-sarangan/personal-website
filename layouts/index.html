@@ -1,39 +1,64 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
-    {{ .Content }}
-  </article>
+  <div class="flex flex-wrap pa3 pa4-ns w-100 mw9 center">
+    <!-- Main content (left) -->
+    <div class="w-100 w-two-thirds-l pr4-l">
+      <article class="f4 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+        {{ .Content }}
+      </article>
 
-  {{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
-  {{ $show_recent_posts := site.Params.ananke.show_recent_posts }}
-  {{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
-  {{ $section_count := len $section }}
+      {{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
+      {{ $show_recent_posts := site.Params.ananke.show_recent_posts }}
+      {{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
+      {{ $section_count := len $section }}
 
-  {{ if and ($show_recent_posts) (compare.Ge $section_count 1) }}
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
-      {{ $n_posts := $.Param "recent_posts_number" | compare.Default 3 }}
-
-      <section class="w-100 mw8">
-        {{ range (collections.First $n_posts $section) }}
-          <div class="w-100 mb4 relative">
-            {{ .Render "summary-with-image" }}
-          </div>
-        {{ end }}
-      </section>
-
-      {{ if compare.Ge $section_count (math.Add $n_posts 1) }}
-        <section class="w-100">
-          <h1 class="f3">{{ lang.Translate "more" }}</h1>
-          {{ range (collections.First 4 (collections.After $n_posts $section)) }}
-            <h2 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">
-              <a href="{{ .RelPermalink }}" class="link black dim">
-                {{ .Title }}
-              </a>
-            </h2>
+      {{ if and ($show_recent_posts) (compare.Ge $section_count 1) }}
+        {{ $n_posts := $.Param "recent_posts_number" | compare.Default 3 }}
+        <section class="w-100 mw8">
+          {{ range (collections.First $n_posts $section) }}
+            <div class="w-100 mb4 relative">
+              {{ .Render "summary-with-image" }}
+            </div>
           {{ end }}
         </section>
+
+        {{ if compare.Ge $section_count (math.Add $n_posts 1) }}
+          <section class="w-100">
+            <h1 class="f3">{{ lang.Translate "more" }}</h1>
+            {{ range (collections.First 4 (collections.After $n_posts $section)) }}
+              <h2 class="f5 fw4 mb4 dib mr3">
+                <a href="{{ .RelPermalink }}" class="link black dim">
+                  {{ .Title }}
+                </a>
+              </h2>
+            {{ end }}
+          </section>
+        {{ end }}
       {{ end }}
-
     </div>
-  {{ end }}
 
+    <!-- Archive box (right) -->
+    <aside class="w-100 pl3-l mt4 mt0-l ml-auto" style="max-width:25%">
+      <div class="ba b--light-gray br2 pa3 bg-white">
+        <h3 class="f5 fw6 mt0 mb3">All Posts</h3>
+        {{ $posts := collections.Where $.Site.RegularPages "Section" "posts" }}
+        {{ $grouped := $posts.GroupByDate "2006" }}
+        {{ range $grouped }}
+          <div class="mb3">
+            <h4 class="f6 fw6 mb1 gray">{{ .Key }}</h4>
+            {{ $byMonth := .Pages.GroupByDate "January" }}
+            {{ range $byMonth }}
+              <p class="f7 fw6 mb1 ml2 dark-gray">{{ .Key }}</p>
+              <ul class="list pl3 mt0 mb2">
+                {{ range .Pages }}
+                  <li class="mb1">
+                    <a href="{{ .RelPermalink }}" class="link dim f7 dark-gray">{{ .Title }}</a>
+                  </li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </aside>
+  </div>
 {{ end }}
