@@ -82,6 +82,6 @@ Using the Proportional table method (Refer [`Ratios, Tables, and One Very Proud 
 
 The following image (Courtesy of Google Nano Banana) explains this experiment more clearly.
 
-![3](/personal-website/images/trigonometry_3.jpeg)
+![3](/personal-website/images/trigonometry_3.png)
 
 So, Moral of the story: curiosity is great… but it comes with homework... 
