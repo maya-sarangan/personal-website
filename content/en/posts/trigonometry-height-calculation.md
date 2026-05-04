@@ -72,7 +72,7 @@ height = tan (36.5°) * 56.75 inches
 
 This answer is extremely close to the actual height, so I know it is correct.
 
-Also, I can actually use a measuring tape (of course you cannot do it with a real building). When I measured my book shelf's height, I got exactly 42 inches!
+Also, I can actually use a measuring tape (of course you cannot do it with a real building). When I measured my book shelf's height, I got exactly 42 inches! (The minor difference in the final answer should be acceptable as I am using a small protractor instead of inclinometer)
 
 A more interesting piece of information is that you can use the same method to measure the circumference of the Earth. It had been done by a Greek Mathematician named Eratosthenes. He measured the circumference of the earth using the shadow of a pole in the city of Alexandria. Sounds unbelievable right? But he found the circumference of the earth using it! He actually used a method very similar to the method we use to find the height of buildings.
 
