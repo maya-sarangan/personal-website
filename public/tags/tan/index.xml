@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tan on Maya Sarangan</title>
-    <link>http://localhost:60878/tags/tan/</link>
+    <link>http://localhost:61760/tags/tan/</link>
     <description>Recent content in Tan on Maya Sarangan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 03 May 2026 12:53:37 -0700</lastBuildDate>
-    <atom:link href="http://localhost:60878/tags/tan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61760/tags/tan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Measure a Building Without Touching It</title>
-      <link>http://localhost:60878/posts/trigonometry-height-calculation/</link>
+      <link>http://localhost:61760/posts/trigonometry-height-calculation/</link>
       <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:60878/posts/trigonometry-height-calculation/</guid>
+      <guid>http://localhost:61760/posts/trigonometry-height-calculation/</guid>
       <description>&lt;p&gt;I have this big hole on my face called my mouth… and I probably should have kept it shut. One day, I peeked ahead in my math book and saw a chapter on trigonometry. Out of curiosity, I asked my dad what it meant… and that’s when things got interesting. My dad explained the basics and asked me a question. How would you try and find the height of the building?&lt;/p&gt;</description>
     </item>
   </channel>

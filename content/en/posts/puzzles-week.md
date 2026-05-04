@@ -24,6 +24,8 @@ Let us make it more challenging, solve for A,B, and C
 
 ![Puzzle_2](/personal-website/images/Problem_2.png)
 
+_Note_: This is not the only solution available for this Puzzle. But, it is one of the solutions that I have found for this puzzle.
+
 **Puzzle 3**
 
 Now, let us try a palindrome problem:
