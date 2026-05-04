@@ -28,7 +28,7 @@
 <script>
 (function() {
   let posts = [];
-  fetch('{{ "index.json" | absURL }}')
+  fetch('{{ with urls.Parse .Site.BaseURL }}{{ .Path }}{{ end }}index.json')
     .then(r => r.json())
     .then(data => { posts = data; });
 
