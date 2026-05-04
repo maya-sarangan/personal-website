@@ -92,7 +92,7 @@
 <script>
 (function() {
   let posts = [];
-  fetch('/index.json')
+  fetch('http:\/\/localhost:1313\/index.json')
     .then(r => r.json())
     .then(data => { posts = data; });
 

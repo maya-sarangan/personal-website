@@ -28,7 +28,7 @@
 <script>
 (function() {
   let posts = [];
-  fetch('/index.json')
+  fetch('{{ "index.json" | absURL }}')
     .then(r => r.json())
     .then(data => { posts = data; });
 
