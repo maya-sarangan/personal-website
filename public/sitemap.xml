@@ -2,120 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:61760/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/physics/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rainbows/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/science/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/rainbow/</loc>
+    <lastmod>2026-05-10T16:46:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/circumference/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/circumference/</loc>
+    <loc>http://localhost:1313/tags/cos/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/cos/</loc>
+    <loc>http://localhost:1313/tags/eratosthenes/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/eratosthenes/</loc>
+    <loc>http://localhost:1313/tags/geometry/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/geometry/</loc>
+    <loc>http://localhost:1313/posts/trigonometry-height-calculation/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/trigonometry-height-calculation/</loc>
+    <loc>http://localhost:1313/tags/math/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/math/</loc>
+    <loc>http://localhost:1313/tags/sin/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/</loc>
+    <loc>http://localhost:1313/tags/tan/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/sin/</loc>
+    <loc>http://localhost:1313/tags/trigonometry/</loc>
     <lastmod>2026-05-03T12:53:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/</loc>
-    <lastmod>2026-05-03T12:53:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:61760/tags/tan/</loc>
-    <lastmod>2026-05-03T12:53:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:61760/tags/trigonometry/</loc>
-    <lastmod>2026-05-03T12:53:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:61760/tags/centroid/</loc>
+    <loc>http://localhost:1313/tags/centroid/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/circumcenter/</loc>
+    <loc>http://localhost:1313/tags/circumcenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/incenter/</loc>
+    <loc>http://localhost:1313/tags/incenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/orthocenter/</loc>
+    <loc>http://localhost:1313/tags/orthocenter/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/circumcenter-evacuation-plan/</loc>
+    <loc>http://localhost:1313/posts/circumcenter-evacuation-plan/</loc>
     <lastmod>2026-04-26T13:32:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/algebra/</loc>
+    <loc>http://localhost:1313/tags/algebra/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/puzzles/</loc>
+    <loc>http://localhost:1313/tags/puzzles/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/tangent/</loc>
+    <loc>http://localhost:1313/tags/tangent/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/tangent-tangent-theorem/</loc>
+    <loc>http://localhost:1313/tags/tangent-tangent-theorem/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/tangent-theorem-problem/</loc>
+    <loc>http://localhost:1313/posts/tangent-theorem-problem/</loc>
     <lastmod>2026-04-12T12:29:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/square-root/</loc>
+    <loc>http://localhost:1313/posts/square-root/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/babylonian/</loc>
+    <loc>http://localhost:1313/tags/babylonian/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/radical/</loc>
+    <loc>http://localhost:1313/tags/radical/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/squareroot/</loc>
+    <loc>http://localhost:1313/tags/squareroot/</loc>
     <lastmod>2026-04-07T20:36:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/cryptography/</loc>
+    <loc>http://localhost:1313/posts/cryptography/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/cryptography/</loc>
+    <loc>http://localhost:1313/tags/cryptography/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/history/</loc>
+    <loc>http://localhost:1313/tags/history/</loc>
     <lastmod>2025-12-23T20:57:53-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/math-and-paper-size/</loc>
+    <loc>http://localhost:1313/posts/math-and-paper-size/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/paper/</loc>
+    <loc>http://localhost:1313/tags/paper/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/ratio/</loc>
+    <loc>http://localhost:1313/tags/ratio/</loc>
     <lastmod>2025-11-15T20:58:20-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/puzzles-week/</loc>
+    <loc>http://localhost:1313/posts/puzzles-week/</loc>
     <lastmod>2025-11-09T17:46:15-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/math-trick-or-magical-treat/</loc>
+    <loc>http://localhost:1313/posts/math-trick-or-magical-treat/</loc>
     <lastmod>2025-10-31T15:49:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/proportion/</loc>
+    <loc>http://localhost:1313/tags/proportion/</loc>
     <lastmod>2025-10-25T16:11:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/table-method/</loc>
+    <loc>http://localhost:1313/posts/table-method/</loc>
     <lastmod>2025-10-25T16:11:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/posts/multiplication-strategies/</loc>
+    <loc>http://localhost:1313/posts/multiplication-strategies/</loc>
     <lastmod>2025-10-11T15:34:02-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/tags/multiplication/</loc>
+    <loc>http://localhost:1313/tags/multiplication/</loc>
     <lastmod>2025-10-11T15:34:02-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:61760/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
