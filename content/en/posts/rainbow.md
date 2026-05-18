@@ -17,7 +17,7 @@ Now, let's dive in on what actually happens with the sunlight and the rain. We w
 
 ![Rainbow_2](/personal-website/images/rainbow_2.png)
 
-The sunlight hits the surface of the water droplet in a straight beam and _refracts_ through the water droplet. Refraction is when the direction of the light beam is altered as it passes through the water droplet. As the light beam passes through, it splits into a spectrum, each displaying a different color of the rainbow(Sound familiar yet....?). The first point of contact is when the light beam touches the surface of the water droplet. 
+The sunlight hits the surface of the water droplet in a straight beam and _refracts_ through the water droplet. Refraction is when the direction of the light beam is altered as it passes through the water droplet. As the light beam passes through, it splits into a spectrum, each displaying a different color of the rainbow(Sound familiar yet....?). This is called _dispersion_.The first point of contact is when the light beam touches the surface of the water droplet. 
 
 Next, the light beams _reflect_ against the opposite side of the water droplet. Reflection is when the light bounces back once it hits the edge of the water droplet. The beams reflect at approximately 40 degrees. So, the second point of contact is when the beams reflect from the other side of the water droplet. 
 
