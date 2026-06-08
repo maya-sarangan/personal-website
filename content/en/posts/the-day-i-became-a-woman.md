@@ -6,9 +6,9 @@ tags = ["cinema", "iran", "literary analysis", "english"]
 +++
 What does freedom mean?
 
-Does it mean being allowed to play outside? Being allowed to ride a bicycle? Being allowed to spend your own money? The Day I Became a Woman explores these questions through three stories about women at different ages.......
+Does it mean being allowed to play outside? Being allowed to ride a bicycle? Being allowed to spend your own money? [The Day I Became a Woman](https://en.wikipedia.org/wiki/The_Day_I_Became_a_Woman) explores these questions through three stories about women at different ages.......
 
-It is a windy day and Hava's mom is waking Hava up from her bed inside of a small white - cloth tent. Hava is a small, energetic girl with black, wavy hair up to her shoulders with short bangs. She is wearing sandals and a frock that hangs up to her knees. She lives with her grandmother and mother. They are a Muslim family living in Iran, and in her tradition, a girl becomes a woman on her ninth birthday. Once Hava gets out of bed, she is informed by her grandmother that it is her birthday. Therefore, Hava has now become a woman. She must wear a _Chador_ and she cannot talk or play with boys. Hava's grandmother and mother immediately start sewing Hava a Chador to wear.
+It is a windy day and Hava's mom is waking Hava up from her bed inside of a small white - cloth tent. Hava is a small, energetic girl with black, wavy hair up to her shoulders with short bangs. She is wearing sandals and a frock that hangs up to her knees. She lives with her grandmother and mother. They are a Muslim family living in Iran, and in her tradition, a girl becomes a woman on her ninth birthday. Once Hava gets out of bed, she is informed by her grandmother that it is her birthday. Therefore, Hava has now become a woman. She must wear a [Chador](https://en.wikipedia.org/wiki/Chador) and she cannot talk or play with boys. Hava's grandmother and mother immediately start sewing Hava a Chador to wear.
 
 ![Hava](/personal-website/images/Hava.jpg)
 
@@ -40,7 +40,7 @@ I loved the ending scene. Here, all the girls from the three different parts are
 
 ![marzieh](/personal-website/images/marzieh.jpg)
 
-This beautiful movie was directed by Iranian woman Marzieh Meshkini. She was born in 1969 in Tehran, Iran. She went to the University of Tehran before going to study cinema for eight years at Makhmalbaf Film School. Other movies by her are, "Stray dogs", "The Man Who Came With The Snow", "Buddha Collapsed Out of Shame", "The President", and "Marghe and Her Mother". This film "The day I became a Woman" won the UNESCO Award, the Isvema Award, and the Silver Hugo for Best First Film award. 
+This beautiful movie was directed by Iranian woman [Marzieh Meshkini](https://en.wikipedia.org/wiki/Marzieh_Meshkini). She was born in 1969 in Tehran, Iran. She went to the University of Tehran before going to study cinema for eight years at Makhmalbaf Film School. Other movies by her are, "Stray dogs", "The Man Who Came With The Snow", "Buddha Collapsed Out of Shame", "The President", and "Marghe and Her Mother". This film "The day I became a Woman" won the UNESCO Award, the Isvema Award, and the Silver Hugo for Best First Film award. 
 
 The three stories take place at different ages of life, but they all ask the same question: who gets to decide how a woman should live? For me, the movie's answer is that every person deserves the freedom to make their own choices.
  
