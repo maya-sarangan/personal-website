@@ -1,236 +1,255 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Maya Sarangan</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Maya Sarangan</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 18:49:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cinema</title>
-      <link>http://localhost:1313/tags/cinema/</link>
-      <pubDate>Sun, 07 Jun 2026 18:49:08 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cinema/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>English</title>
-      <link>http://localhost:1313/tags/english/</link>
-      <pubDate>Sun, 07 Jun 2026 18:49:08 -0700</pubDate>
-      <guid>http://localhost:1313/tags/english/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iran</title>
-      <link>http://localhost:1313/tags/iran/</link>
-      <pubDate>Sun, 07 Jun 2026 18:49:08 -0700</pubDate>
-      <guid>http://localhost:1313/tags/iran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Literary Analysis</title>
-      <link>http://localhost:1313/tags/literary-analysis/</link>
-      <pubDate>Sun, 07 Jun 2026 18:49:08 -0700</pubDate>
-      <guid>http://localhost:1313/tags/literary-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
-      <pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rainbows</title>
-      <link>http://localhost:1313/tags/rainbows/</link>
-      <pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
-      <guid>http://localhost:1313/tags/rainbows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Science</title>
-      <link>http://localhost:1313/tags/science/</link>
-      <pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
-      <guid>http://localhost:1313/tags/science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Circumference</title>
-      <link>http://localhost:1313/tags/circumference/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/circumference/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cos</title>
-      <link>http://localhost:1313/tags/cos/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eratosthenes</title>
-      <link>http://localhost:1313/tags/eratosthenes/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/eratosthenes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Geometry</title>
-      <link>http://localhost:1313/tags/geometry/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/geometry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sin</title>
-      <link>http://localhost:1313/tags/sin/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/sin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tan</title>
-      <link>http://localhost:1313/tags/tan/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/tan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trigonometry</title>
-      <link>http://localhost:1313/tags/trigonometry/</link>
-      <pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/trigonometry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Centroid</title>
-      <link>http://localhost:1313/tags/centroid/</link>
-      <pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/centroid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Circumcenter</title>
-      <link>http://localhost:1313/tags/circumcenter/</link>
-      <pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/circumcenter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Incenter</title>
-      <link>http://localhost:1313/tags/incenter/</link>
-      <pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/incenter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Orthocenter</title>
-      <link>http://localhost:1313/tags/orthocenter/</link>
-      <pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/orthocenter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Algebra</title>
-      <link>http://localhost:1313/tags/algebra/</link>
-      <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
-      <guid>http://localhost:1313/tags/algebra/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Puzzles</title>
-      <link>http://localhost:1313/tags/puzzles/</link>
-      <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
-      <guid>http://localhost:1313/tags/puzzles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tangent</title>
-      <link>http://localhost:1313/tags/tangent/</link>
-      <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
-      <guid>http://localhost:1313/tags/tangent/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tangent Tangent Theorem</title>
-      <link>http://localhost:1313/tags/tangent-tangent-theorem/</link>
-      <pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
-      <guid>http://localhost:1313/tags/tangent-tangent-theorem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Babylonian</title>
-      <link>http://localhost:1313/tags/babylonian/</link>
-      <pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
-      <guid>http://localhost:1313/tags/babylonian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Radical</title>
-      <link>http://localhost:1313/tags/radical/</link>
-      <pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
-      <guid>http://localhost:1313/tags/radical/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Squareroot</title>
-      <link>http://localhost:1313/tags/squareroot/</link>
-      <pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
-      <guid>http://localhost:1313/tags/squareroot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cryptography</title>
-      <link>http://localhost:1313/tags/cryptography/</link>
-      <pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
-      <guid>http://localhost:1313/tags/cryptography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
-      <pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paper</title>
-      <link>http://localhost:1313/tags/paper/</link>
-      <pubDate>Sat, 15 Nov 2025 20:58:20 -0800</pubDate>
-      <guid>http://localhost:1313/tags/paper/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ratio</title>
-      <link>http://localhost:1313/tags/ratio/</link>
-      <pubDate>Sat, 15 Nov 2025 20:58:20 -0800</pubDate>
-      <guid>http://localhost:1313/tags/ratio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Proportion</title>
-      <link>http://localhost:1313/tags/proportion/</link>
-      <pubDate>Sat, 25 Oct 2025 16:11:46 -0700</pubDate>
-      <guid>http://localhost:1313/tags/proportion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multiplication</title>
-      <link>http://localhost:1313/tags/multiplication/</link>
-      <pubDate>Sat, 11 Oct 2025 15:34:02 -0700</pubDate>
-      <guid>http://localhost:1313/tags/multiplication/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Maya Sarangan</title>
+		<link>https://example.org/tags/</link>
+		<description>Recent content in Tags on Maya Sarangan</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Nov 2026 11:30:53 -0800</lastBuildDate>
+		
+			<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cinema</title>
+				<link>https://example.org/tags/cinema/</link>
+				<pubDate>Sun, 08 Nov 2026 11:30:53 -0800</pubDate>
+				<guid>https://example.org/tags/cinema/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>English</title>
+				<link>https://example.org/tags/english/</link>
+				<pubDate>Sun, 08 Nov 2026 11:30:53 -0800</pubDate>
+				<guid>https://example.org/tags/english/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Iran</title>
+				<link>https://example.org/tags/iran/</link>
+				<pubDate>Sun, 08 Nov 2026 11:30:53 -0800</pubDate>
+				<guid>https://example.org/tags/iran/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Literary Analysis</title>
+				<link>https://example.org/tags/literary-analysis/</link>
+				<pubDate>Sun, 08 Nov 2026 11:30:53 -0800</pubDate>
+				<guid>https://example.org/tags/literary-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Algebra</title>
+				<link>https://example.org/tags/algebra/</link>
+				<pubDate>Mon, 07 Sep 2026 18:31:21 -0700</pubDate>
+				<guid>https://example.org/tags/algebra/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Math</title>
+				<link>https://example.org/tags/math/</link>
+				<pubDate>Mon, 07 Sep 2026 18:31:21 -0700</pubDate>
+				<guid>https://example.org/tags/math/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Numbers</title>
+				<link>https://example.org/tags/numbers/</link>
+				<pubDate>Mon, 07 Sep 2026 18:31:21 -0700</pubDate>
+				<guid>https://example.org/tags/numbers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Afghanistan</title>
+				<link>https://example.org/tags/afghanistan/</link>
+				<pubDate>Wed, 12 Aug 2026 18:49:02 +0000</pubDate>
+				<guid>https://example.org/tags/afghanistan/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Physics</title>
+				<link>https://example.org/tags/physics/</link>
+				<pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
+				<guid>https://example.org/tags/physics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rainbows</title>
+				<link>https://example.org/tags/rainbows/</link>
+				<pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
+				<guid>https://example.org/tags/rainbows/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Science</title>
+				<link>https://example.org/tags/science/</link>
+				<pubDate>Sun, 10 May 2026 16:46:18 -0700</pubDate>
+				<guid>https://example.org/tags/science/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Circumference</title>
+				<link>https://example.org/tags/circumference/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/circumference/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cos</title>
+				<link>https://example.org/tags/cos/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/cos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eratosthenes</title>
+				<link>https://example.org/tags/eratosthenes/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/eratosthenes/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Geometry</title>
+				<link>https://example.org/tags/geometry/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/geometry/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sin</title>
+				<link>https://example.org/tags/sin/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/sin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tan</title>
+				<link>https://example.org/tags/tan/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/tan/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trigonometry</title>
+				<link>https://example.org/tags/trigonometry/</link>
+				<pubDate>Sun, 03 May 2026 12:53:37 -0700</pubDate>
+				<guid>https://example.org/tags/trigonometry/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Centroid</title>
+				<link>https://example.org/tags/centroid/</link>
+				<pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
+				<guid>https://example.org/tags/centroid/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Circumcenter</title>
+				<link>https://example.org/tags/circumcenter/</link>
+				<pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
+				<guid>https://example.org/tags/circumcenter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Incenter</title>
+				<link>https://example.org/tags/incenter/</link>
+				<pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
+				<guid>https://example.org/tags/incenter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Orthocenter</title>
+				<link>https://example.org/tags/orthocenter/</link>
+				<pubDate>Sun, 26 Apr 2026 13:32:17 -0700</pubDate>
+				<guid>https://example.org/tags/orthocenter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Puzzles</title>
+				<link>https://example.org/tags/puzzles/</link>
+				<pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
+				<guid>https://example.org/tags/puzzles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tangent</title>
+				<link>https://example.org/tags/tangent/</link>
+				<pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
+				<guid>https://example.org/tags/tangent/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tangent Tangent Theorem</title>
+				<link>https://example.org/tags/tangent-tangent-theorem/</link>
+				<pubDate>Sun, 12 Apr 2026 12:29:46 -0700</pubDate>
+				<guid>https://example.org/tags/tangent-tangent-theorem/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Babylonian</title>
+				<link>https://example.org/tags/babylonian/</link>
+				<pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
+				<guid>https://example.org/tags/babylonian/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Radical</title>
+				<link>https://example.org/tags/radical/</link>
+				<pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
+				<guid>https://example.org/tags/radical/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Squareroot</title>
+				<link>https://example.org/tags/squareroot/</link>
+				<pubDate>Tue, 07 Apr 2026 20:36:40 -0700</pubDate>
+				<guid>https://example.org/tags/squareroot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cryptography</title>
+				<link>https://example.org/tags/cryptography/</link>
+				<pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
+				<guid>https://example.org/tags/cryptography/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>History</title>
+				<link>https://example.org/tags/history/</link>
+				<pubDate>Tue, 23 Dec 2025 20:57:53 -0800</pubDate>
+				<guid>https://example.org/tags/history/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Paper</title>
+				<link>https://example.org/tags/paper/</link>
+				<pubDate>Sat, 15 Nov 2025 20:58:20 -0800</pubDate>
+				<guid>https://example.org/tags/paper/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ratio</title>
+				<link>https://example.org/tags/ratio/</link>
+				<pubDate>Sat, 15 Nov 2025 20:58:20 -0800</pubDate>
+				<guid>https://example.org/tags/ratio/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Proportion</title>
+				<link>https://example.org/tags/proportion/</link>
+				<pubDate>Sat, 25 Oct 2025 16:11:46 -0700</pubDate>
+				<guid>https://example.org/tags/proportion/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Multiplication</title>
+				<link>https://example.org/tags/multiplication/</link>
+				<pubDate>Sat, 11 Oct 2025 15:34:02 -0700</pubDate>
+				<guid>https://example.org/tags/multiplication/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
