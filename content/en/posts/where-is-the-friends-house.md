@@ -7,13 +7,21 @@ tags = ["cinema", "iran", "literary analysis", "english"]
 
 Being 12, I often have arguments with my parents. (shhhh... you can read as "just mom....") 
     Me: "Mom, I want to visit my friend.". 
+
     Mom: "No. Do your homework!"
+
     Me: "Mom, I want to watch iPad for some time."
+
     Mom: "No. Do your piano!"
+
     Me: "Mom, I want to watch a movie."
+
     Mom: "No. Practice your math"
+
     .....
+
     .....
+    
 
 Now, what would happen, if I don't listen? What would happen if I break the rules? What would happen if I do something that I really believe is correct? ["Where Is the Friend's House?"](https://en.wikipedia.org/wiki/Where_Is_the_Friend%27s_House%3F) is a 1987 Iranian movie by [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami).
 
