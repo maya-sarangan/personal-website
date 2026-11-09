@@ -5,6 +5,18 @@ title = "Where Is the Friend's House?"
 tags = ["cinema", "iran", "literary analysis", "english"]
 +++
 
+Being 12, I often have arguments with my parents. (shhhh... you can read as "just mom....") 
+    Me: "Mom, I want to visit my friend.". 
+    Mom: "No. Do your homework!"
+    Me: "Mom, I want to watch iPad for some time."
+    Mom: "No. Do your piano!"
+    Me: "Mom, I want to watch a movie."
+    Mom: "No. Practice your math"
+    .....
+    .....
+
+Now, what would happen, if I don't listen? What would happen if I break the rules? What would happen if I do something that I really believe is correct? ["Where Is the Friend's House?"](https://en.wikipedia.org/wiki/Where_Is_the_Friend%27s_House%3F) is a 1987 Iranian movie by [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami).
+
 ![Where_Is_The_Friends_House_1](/personal-website/images/WhereIsTheFriendsHouse-1.jpg)
 
 A group of boys are having fun and playing during class. Their teacher is a few minutes late, and they take full advantage of this, disrupting other classes and joking around. Once their teacher finally comes in, he scolds them profusely and tells them that they should study next time. He comes around collecting homework and stops at Mohammad Reza Nematzadeh's desk. Mohammad fumbles for his homework, but the teacher is most displeased when he realizes that Mohammad did his homework on loose sheets of paper instead of his notebook. The teacher chides Mohammad, saying that if he did this one more time, he would be expelled. Mohammad cries and promises to always use his notebook for homework. His friend, Ahmad, sits beside him, trying to comfort him.
@@ -23,7 +35,7 @@ Ahmad returned with the cigarettes and ran off. He gets home and refuses to eat,
 
 The core of this movie is the innocence of Ahmad and his ethical clarity. He didn't care how far away the house was, all he cared about was giving his friend his notebook back.
 
-Ahmad begs his mother to let him go to his friend's house. His mother represents the controlling class, so preoccupied by other tasks (baby brother, clothes) that she can't spare a single second to care for those who need help. Even though Ahmad is acting out of good reason, she still doesn't understand.
+Ahmad begs his mother to let him go to his friend's house. His mother represents the adult world, where everyday responsibilities and household problems can become so overwhelming that adults sometimes fail to understand what matters to children. Even though Ahmad is acting out of good reason, she still doesn't understand.
 
 Once Ahmad reaches the bartering men, they completely disregard what Ahmad has to say, they just take the notebook and damage it. These men represent the adults' world, not caring about what the children have to say. To them, the children are essentially voiceless. This scene can also be interpreted as the Present and the Future. The men, the Present, are unknowingly spoiling the future by grabbing the notebook from Ahmad, the Future.
 
